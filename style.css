@@ -9,9 +9,11 @@
     border: none !important;
     box-shadow: 1px 1px 5px rgb(78, 71, 71);
     margin-top:260px;
+    height: 47px;
+    font-size: 20px;
 }
-body{
-    background-color: aquamarine;
+body {
+    background-color: rgba(228, 242, 253, 255) !important;
 }
 .dropdown-menu{
     width: 300px;
